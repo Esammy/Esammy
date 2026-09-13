@@ -1,4 +1,4 @@
-## Samuel David Egwu
+# Samuel David Egwu
 
 **Lead AI/ML Engineer — production agentic AI, LLM evaluation, and the safety rails that let a model operate near real money.**
 
