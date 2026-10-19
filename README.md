@@ -18,7 +18,7 @@ Currently at [BrandDrive](https://branddrive.co/), where I lead a production mul
 | Project | What it is |
 | --- | --- |
 | **Nivram** | Production multi-agent platform for business and personal banking — over 10 agents, over 280 tools, web, mobile and WhatsApp |
-| **[Udara](https://useudara.com/)** | A WhatsApp savings agent running on a live microfinance account, with 57 golden dialogues enforcing its action boundary in CI |
+| **[Amanda](https://www.useamanda.com/))** | A WhatsApp savings agent running on a live microfinance account, with 57 golden dialogues enforcing its action boundary in CI |
 | **LLM Evaluation System** | 21 versioned datasets, 642 graded cases, a version-pinned LLM judge, wired into the release path |
 
 Most of that work is closed-source. The case studies, with the architecture and the numbers behind them, are on my site.
